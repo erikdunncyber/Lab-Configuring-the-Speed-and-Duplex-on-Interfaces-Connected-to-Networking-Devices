@@ -2,7 +2,7 @@
 
 <p align="center">
 This is the diagram od the network where I'll be configuring the speed and duplex on interfaces: <br/>
-<img src="https://imgur.com/YrcSp1N" height="80%" width="80%"/>
+<img src="https://i.imgur.com/YrcSp1N.png" height="80%" width="80%"/>
 <br />
 <br />
 I'll first start with router 1. I'll access its CLI and enter Configuration mode from Privileged Exec mode. I'll give the router the hostname of R1 and enter Interface Configuration Mode with the command "int g0/0". I'll configure the IP address to 172.16.255.254 and declare the subnet mask to be 255.255.0.0 since the prefix length for this network is /16. Now I'll configure the speed of the interface to 1000 Mbps and put it in full duplex. I'll also add a description noting that this interface is connected to switch 1. Lastly, I'll enable the interface by using the "no shutdown" command: <br/>
