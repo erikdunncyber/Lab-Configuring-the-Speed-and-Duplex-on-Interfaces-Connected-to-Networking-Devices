@@ -1,7 +1,7 @@
 <h1>Packet Tracer - Configuring the Speed and Duplex on Interfaces Connected to Networking Devices</h1>
 
 <p align="center">
-This is the diagram od the network where I'll be configuring the speed and duplex on interfaces: <br/>
+This is the diagram of the network where I'll be configuring the speed and duplex on interfaces: <br/>
 <img src="https://i.imgur.com/YrcSp1N.png" height="80%" width="80%"/>
 <br />
 <br />
